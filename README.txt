@@ -3,6 +3,8 @@
 Bonny Mahajan
 Anna Wang
 
+(Install /audio_common) 
+
 Install instructions :
 
 1)Our program uses sound_play node which uses audio_common package . But I've included a copy of the audio_common package in the include folder for our project – so it need not be installed separately.
